@@ -1,6 +1,6 @@
 {
-  "https://raw.githubusercontent.com/Espadik/void-launcher-banners/main/banner.png",
+  "imageUrl": "https://raw.githubusercontent.com/Espadik/void-launcher-banners/main/banner.png",
   "linkUrl": "https://discord.com/invite/SbkxYAf8xr",
-  "version": 1,
+  "version": 2,
   "enabled": true
 }
